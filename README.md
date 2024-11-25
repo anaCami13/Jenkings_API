@@ -1,7 +1,7 @@
 # Jenkings_API
 Pruebas con Jenkings para validar el correcto funcionamiento de la api de actividades   
 
-#Pruebas Camila Ojeda 
+#Pruebas de la api en Jenkings
 
 ![image](https://github.com/user-attachments/assets/a1ad58bd-3e17-4c5f-a80a-88b51382343e)
 ![image](https://github.com/user-attachments/assets/48815755-749e-44be-b5ee-79756725a09f)
